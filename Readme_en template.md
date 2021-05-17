@@ -29,6 +29,9 @@
 
 ---
 
+> [Version en español](readme.md).
+ 
+
 ## About
 
 Long description
