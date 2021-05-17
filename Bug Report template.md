@@ -42,3 +42,4 @@ Si es posible, incluir imágenes del problema.
  - Version [e.g. 22]
 
 **Contexto adicional**
+<!-- Info adicional -->
