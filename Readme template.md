@@ -1,11 +1,13 @@
+<!--- Banner opcional -->
 <h1 align="center">
   <br>
   <a href=#><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" alt="banner"></a>
 </h1>
 
-<h4 align="center"> Descripción del proyecto en una linea </h4>
+<h4 align="center"> Descripción del proyecto en una linea </h4> <!--- Obligatorio -->
 
-<p align="center">
+<!--- Badges, sugeridas -->
+<p align="center"> 
     <a href="#">
     <img src="#"
          alt="GitHub last commit badge">
@@ -17,6 +19,7 @@
          alt="GitHub pull requests badge">
 </p>
       
+<!--- Tabla de contenido, Obligatoria -->      
 <p align="center">
   <a href="#descripción">Descripción</a> •
   <a href="#instalación">Instalación</a> •  
@@ -29,14 +32,15 @@
 
 ---
 
-## Descripción <!--- Obligatorio -->
-
+## Descripción 
+<!--- Obligatorio -->
 Descripción larga
 
 <table>
 <tr>
 <td>
-
+<!--- Preview, sugerido -->
+  
 ![Imagen/gif de preview](#)
 <p align="right">
 <sub>(Previsualización)</sub>
@@ -47,7 +51,8 @@ Descripción larga
 </table>
 
 
-### Características <!--- Tabla opcional -->
+### Características 
+<!--- Tabla opcional -->
 
 
 |                            |  theProject        | ◾ Otros           |
@@ -56,7 +61,9 @@ Descripción larga
 | Característica 2                  |         ✔️         |        ❌        |
 
 
-## Instalación <!--- Obligatorio, subsecciones opcionales -->
+## Instalación 
+<!--- Obligatorio, subsecciones opcionales -->
+
 Requisitos:  <!--- Opcional, solo si aplica -->
 - [Req 1](#) versión 1.0
 - [Req 2](#) (mejor con v2.0)
@@ -84,7 +91,8 @@ cd build && make
 ```
 
  
-## Uso <!--- Obligatorio -->
+## Uso 
+<!--- Obligatorio -->
 
 - **Ejecutar, lanzar** en la _consola_ el siguiente comando:  `run theProject`
 
@@ -92,7 +100,8 @@ cd build && make
 ### Actualizar <!--- Opcional -->
 
 
-## Contribuir <!--- Obligatorio -->
+## Contribuir 
+<!--- Obligatorio -->
 
 
 #### Informes de errores y solicitudes de funciones 
@@ -105,7 +114,8 @@ Utilice el **[rastreador de problemas](#)** para informar de errores o solicitud
 
 
 
-## Soporte <!--- Obligatorio, subsecciones opcionales -->
+## Soporte 
+<!--- Obligatorio, subsecciones opcionales -->
 
 ### Wiki <!--- Opcional -->
 
@@ -122,11 +132,14 @@ Comuníquese con nosotros en uno de los siguientes canales:
 - Discord [OSUC](#)
 - E-Mail: **contacto@osuc.dev**
 
-## Créditos <!--- Opcional -->
+## Créditos 
+<!--- Opcional -->
 
-### Mantenedores <!--- Opcional -->
+### Mantenedores 
+<!--- Opcional -->
 
 
-## Licencia <!--- Obligatorio -->
+## Licencia 
+<!--- Obligatorio -->
 
 [![Licencia: This licence](#)](#)
