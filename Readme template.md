@@ -1,11 +1,13 @@
+<!--- Banner opcional -->
 <h1 align="center">
   <br>
   <a href=#><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" alt="banner"></a>
 </h1>
 
-<h4 align="center"> Descripción del proyecto en una linea </h4>
+<h4 align="center"> Descripción del proyecto en una linea </h4> <!--- Obligatorio -->
 
-<p align="center">
+<!--- Badges, sugeridas -->
+<p align="center"> 
     <a href="#">
     <img src="#"
          alt="GitHub last commit badge">
@@ -17,112 +19,130 @@
          alt="GitHub pull requests badge">
 </p>
       
+<!--- Tabla de contenido, Obligatoria -->      
 <p align="center">
-  <a href="#about">About</a> •
-  <a href="#installation">Installation</a> •  
-  <a href="#usage">Usage</a> •
-  <a href="#contributing">Contributing</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#support">Support</a> •
-  <a href="#license">License</a>
+  <a href="#descripción">Descripción</a> •
+  <a href="#instalación">Instalación</a> •  
+  <a href="#uso">Uso</a> •
+  <a href="#contribuir">Contribuir</a> •
+  <a href="#créditos">Créditos</a> •
+  <a href="#soporte">Soporte</a> •
+  <a href="#licencia">Licencia</a>
 </p>
 
 ---
 
-## About
+> [English version](readme_en.md).
 
+
+## Descripción 
+<!--- Obligatorio -->
 Descripción larga
 
 <table>
 <tr>
 <td>
-
+<!--- Preview, sugerido -->
+  
 ![Imagen/gif de preview](#)
 <p align="right">
-<sub>(Preview)</sub>
+<sub>(Previsualización)</sub>
 </p>
 
 </td>
 </tr>
 </table>
 
-### Features
 
-|                            |  theProject        | ◾ Other           |
+### Características 
+<!--- Tabla opcional -->
+
+
+|                            |  theProject        | ◾ Otros           |
 | -------------------------- | :----------------: | :---------------: |
-| Feature 1                  |         ✔️         |        ❌        |
-| Feature 2                  |         ✔️         |        ❌        |
+| Característica 1                  |         ✔️         |        ❌        |
+| Característica 2                  |         ✔️         |        ❌        |
 
 
-## Installation
-Requirements:
-- [Req 1](#) version 1.0
-- [Req 2](#) (tested with 2.0)
+## Instalación 
+<!--- Obligatorio, subsecciones opcionales -->
 
-##### Downloading and installing steps (pre-build files):
-* **[Download, fork](#)** the latest release.
-* **Open...** the following path: `\etc\theproject`
-* **Execute, Launch** in the _console_ the following command: `install.sh`
+Requisitos:  <!--- Opcional, solo si aplica -->
+- [Req 1](#) versión 1.0
+- [Req 2](#) (mejor con v2.0)
 
-##### Downloading, building from source and installing steps:
-To build theProject, you need to have:
-- [Req 1](#) version 1.0
-- [Req 2](#) (tested with 2.0)
+#### Pasos de descarga e instalación (archivos precompilados): <!--- Obligatorio, como descargar, instalación solo si aplica -->
+* **[Descarga, fork](#)** la última versión lanzada. 
+* **Abrir...** la ruta: `\etc\theproject`
+* **Ejecutar, lanzar** en la _consola_ el siguiente comando: `install.sh`
 
-Steps: 
-* **[Download, fork](#)** the latest version from `main` branch.
-* **Open...** the following path: `\etc\theproject`
-* **Execute, Launch** in the _console_ the following commands:
+
+#### Pasos de descarga, compilación desde el código fuente e instalación: <!--- Opcional, solo si aplica hacer build -->
+
+Para construir theProject, necesita tener:
+- [Req 1](#) versión 1.0
+- [Req 2](#) (mejor con v2.0)
+
+Pasos: 
+* **[Descarga, fork](#)** la última versión de la rama `main`. 
+* **Abrir...** la ruta: `\etc\theproject`
+* **Ejecutar, lanzar** en la _consola_ los siguientes comandos:
+
 ```
 mkdir build
 cd build && make
 ```
 
-## Usage
+ 
+## Uso 
+<!--- Obligatorio -->
 
-* **Execute, Launch** in the _console_ the following command: `run theProject`
-
-
-### Updating
-
-
-## Contributing
+- **Ejecutar, lanzar** en la _consola_ el siguiente comando:  `run theProject`
 
 
-#### Bug Reports & Feature Requests
-
-Please use the [issue tracker](#) to report any bugs or file feature requests.
-
-#### Developing
-
-Got **something interesting** you'd like to **contribute**? Read more in [contributing](#).
+### Actualizar <!--- Opcional -->
 
 
+## Contribuir 
+<!--- Obligatorio -->
+
+
+#### Informes de errores y solicitudes de funciones 
+
+Utilice el **[rastreador de problemas](#)** para informar de errores o solicitudes de funciones.
+
+#### Desarrollando 
+
+¿Tienes **algo interesante** que te gustaría **contribuir**? Lea más en [contribución](#).
 
 
 
-## Support
+## Soporte 
+<!--- Obligatorio, subsecciones opcionales -->
 
-### Wiki
+### Wiki <!--- Opcional -->
 
-Do you **need some help**? Check the _articles_ from the [wiki](#).
+Necesitas **ayuda**? Revisa los _artículos_ de la [wiki](#).
 
-### FAQ
+### Preguntas frecuentes <!--- Opcional -->
 
-### Troubleshooting
+### Solución de problemas <!--- Opcional -->
 
-### Need more support?
-Reach out to us at one of the following places:
+### ¿Necesitas más ayuda? <!--- Obligatorio -->
+Comuníquese con nosotros en uno de los siguientes canales:
 
-- Website at [osuc](https://osuc.dev)
+- Website en [osuc](https://osuc.dev)
 - Discord [OSUC](#)
 - E-Mail: **contacto@osuc.dev**
 
-## Credits
+## Créditos 
+<!--- Opcional -->
 
-### Maintainers
+### Mantenedores 
+<!--- Opcional -->
 
 
-## License
+## Licencia 
+<!--- Obligatorio -->
 
-[![License: This licence](#)](#)
+[![Licencia: This licence](#)](#)
