@@ -32,6 +32,9 @@
 
 ---
 
+> [English version](readme_en.md).
+
+
 ## Descripción 
 <!--- Obligatorio -->
 Descripción larga
