@@ -18,18 +18,18 @@
 </p>
       
 <p align="center">
-  <a href="#about">About</a> •
-  <a href="#installation">Installation</a> •  
-  <a href="#usage">Usage</a> •
-  <a href="#contributing">Contributing</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#support">Support</a> •
-  <a href="#license">License</a>
+  <a href="#descripción">Descripción</a> •
+  <a href="#instalación">Instalación</a> •  
+  <a href="#uso">Uso</a> •
+  <a href="#contribuir">Contribuir</a> •
+  <a href="#créditos">Créditos</a> •
+  <a href="#soporte">Soporte</a> •
+  <a href="#licencia">Licencia</a>
 </p>
 
 ---
 
-## About
+## Descripción
 
 Descripción larga
 
@@ -39,90 +39,88 @@ Descripción larga
 
 ![Imagen/gif de preview](#)
 <p align="right">
-<sub>(Preview)</sub>
+<sub>(Previsualización)</sub>
 </p>
 
 </td>
 </tr>
 </table>
 
-### Features
+### Características
 
-|                            |  theProject        | ◾ Other           |
+|                            |  theProject        | ◾ Otros           |
 | -------------------------- | :----------------: | :---------------: |
-| Feature 1                  |         ✔️         |        ❌        |
-| Feature 2                  |         ✔️         |        ❌        |
+| Característica 1                  |         ✔️         |        ❌        |
+| Característica 2                  |         ✔️         |        ❌        |
 
 
-## Installation
-Requirements:
-- [Req 1](#) version 1.0
-- [Req 2](#) (tested with 2.0)
+## Instalación
+Requisitos:
+- [Req 1](#) versión 1.0
+- [Req 2](#) (mejor con v2.0)
 
-##### Downloading and installing steps (pre-build files):
-* **[Download, fork](#)** the latest release.
-* **Open...** the following path: `\etc\theproject`
-* **Execute, Launch** in the _console_ the following command: `install.sh`
+##### Pasos de descarga e instalación (archivos precompilados):
+* **[Descarga, fork](#)** la última versión lanzada. 
+* **Abrir...** la ruta: `\etc\theproject`
+* **Ejecutar, lanzar** en la _consola_ el siguiente comando: `install.sh`
 
-##### Downloading, building from source and installing steps:
-To build theProject, you need to have:
-- [Req 1](#) version 1.0
-- [Req 2](#) (tested with 2.0)
+##### Pasos de descarga, compilación desde el código fuente e instalación:
+Para construir theProject, necesita tener:
+- [Req 1](#) versión 1.0
+- [Req 2](#) (mejor con v2.0)
 
-Steps: 
-* **[Download, fork](#)** the latest version from `main` branch.
-* **Open...** the following path: `\etc\theproject`
-* **Execute, Launch** in the _console_ the following commands:
+Pasos: 
+* **[Descarga, fork](#)** la última versión de la rama `main`. 
+* **Abrir...** la ruta: `\etc\theproject`
+* **Ejecutar, lanzar** en la _consola_ los siguientes comandos:
 ```
 mkdir build
 cd build && make
 ```
 
-## Usage
+## Uso
 
-* **Execute, Launch** in the _console_ the following command: `run theProject`
-
-
-### Updating
+- **Ejecutar, lanzar** en la _consola_ el siguiente comando:  `run theProject`
 
 
-## Contributing
+### Actualizar
 
 
-#### Bug Reports & Feature Requests
-
-Please use the [issue tracker](#) to report any bugs or file feature requests.
-
-#### Developing
-
-Got **something interesting** you'd like to **contribute**? Read more in [contributing](#).
+## Contribuir
 
 
+#### Informes de errores y solicitudes de funciones
+
+Utilice el **[rastreador de problemas](#)** para informar de errores o solicitudes de funciones.
+
+#### Desarrollando
+
+¿Tienes **algo interesante** que te gustaría **contribuir**? Lea más en [contribución](#).
 
 
 
-## Support
+## Soporte
 
 ### Wiki
 
-Do you **need some help**? Check the _articles_ from the [wiki](#).
+Necesitas **ayuda**? Revisa los _artículos_ de la [wiki](#).
 
-### FAQ
+### Preguntas frecuentes
 
-### Troubleshooting
+### Solución de problemas
 
-### Need more support?
-Reach out to us at one of the following places:
+### ¿Necesitas más ayuda?
+Comuníquese con nosotros en uno de los siguientes canales:
 
-- Website at [osuc](https://osuc.dev)
+- Website en [osuc](https://osuc.dev)
 - Discord [OSUC](#)
 - E-Mail: **contacto@osuc.dev**
 
-## Credits
+## Créditos
 
-### Maintainers
+### Mantenedores
 
 
-## License
+## Licencia
 
-[![License: This licence](#)](#)
+[![Licencia: This licence](#)](#)
