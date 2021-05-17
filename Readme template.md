@@ -29,7 +29,7 @@
 
 ---
 
-## Descripción
+## Descripción <!--- Obligatorio -->
 
 Descripción larga
 
@@ -46,7 +46,9 @@ Descripción larga
 </tr>
 </table>
 
-### Características
+
+### Características <!--- Tabla opcional -->
+
 
 |                            |  theProject        | ◾ Otros           |
 | -------------------------- | :----------------: | :---------------: |
@@ -54,17 +56,19 @@ Descripción larga
 | Característica 2                  |         ✔️         |        ❌        |
 
 
-## Instalación
-Requisitos:
+## Instalación <!--- Obligatorio, subsecciones opcionales -->
+Requisitos:  <!--- Opcional, solo si aplica -->
 - [Req 1](#) versión 1.0
 - [Req 2](#) (mejor con v2.0)
 
-##### Pasos de descarga e instalación (archivos precompilados):
+#### Pasos de descarga e instalación (archivos precompilados): <!--- Obligatorio, como descargar, instalación solo si aplica -->
 * **[Descarga, fork](#)** la última versión lanzada. 
 * **Abrir...** la ruta: `\etc\theproject`
 * **Ejecutar, lanzar** en la _consola_ el siguiente comando: `install.sh`
 
-##### Pasos de descarga, compilación desde el código fuente e instalación:
+
+#### Pasos de descarga, compilación desde el código fuente e instalación: <!--- Opcional, solo si aplica hacer build -->
+
 Para construir theProject, necesita tener:
 - [Req 1](#) versión 1.0
 - [Req 2](#) (mejor con v2.0)
@@ -73,54 +77,56 @@ Pasos:
 * **[Descarga, fork](#)** la última versión de la rama `main`. 
 * **Abrir...** la ruta: `\etc\theproject`
 * **Ejecutar, lanzar** en la _consola_ los siguientes comandos:
+
 ```
 mkdir build
 cd build && make
 ```
 
-## Uso
+ 
+## Uso <!--- Obligatorio -->
 
 - **Ejecutar, lanzar** en la _consola_ el siguiente comando:  `run theProject`
 
 
-### Actualizar
+### Actualizar <!--- Opcional -->
 
 
-## Contribuir
+## Contribuir <!--- Obligatorio -->
 
 
-#### Informes de errores y solicitudes de funciones
+#### Informes de errores y solicitudes de funciones 
 
 Utilice el **[rastreador de problemas](#)** para informar de errores o solicitudes de funciones.
 
-#### Desarrollando
+#### Desarrollando 
 
 ¿Tienes **algo interesante** que te gustaría **contribuir**? Lea más en [contribución](#).
 
 
 
-## Soporte
+## Soporte <!--- Obligatorio, subsecciones opcionales -->
 
-### Wiki
+### Wiki <!--- Opcional -->
 
 Necesitas **ayuda**? Revisa los _artículos_ de la [wiki](#).
 
-### Preguntas frecuentes
+### Preguntas frecuentes <!--- Opcional -->
 
-### Solución de problemas
+### Solución de problemas <!--- Opcional -->
 
-### ¿Necesitas más ayuda?
+### ¿Necesitas más ayuda? <!--- Obligatorio -->
 Comuníquese con nosotros en uno de los siguientes canales:
 
 - Website en [osuc](https://osuc.dev)
 - Discord [OSUC](#)
 - E-Mail: **contacto@osuc.dev**
 
-## Créditos
+## Créditos <!--- Opcional -->
 
-### Mantenedores
+### Mantenedores <!--- Opcional -->
 
 
-## Licencia
+## Licencia <!--- Obligatorio -->
 
 [![Licencia: This licence](#)](#)
