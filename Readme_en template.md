@@ -1,10 +1,11 @@
+<!--- Banner optional -->
 <h1 align="center">
   <br>
   <a href=#><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" alt="banner"></a>
 </h1>
 
-<h4 align="center"> One line description </h4>
-
+<h4 align="center"> One line description </h4> <!--- Mandatory -->
+<!--- Badges, suggested -->
 <p align="center">
     <a href="#">
     <img src="#"
@@ -16,7 +17,8 @@
     <img src="#"
          alt="GitHub pull requests badge">
 </p>
-      
+
+<!--- Content index, Mandatory -->
 <p align="center">
   <a href="#about">About</a> •
   <a href="#installation">Installation</a> •  
@@ -33,13 +35,13 @@
  
 
 ## About
-
+<!--- Mandatory -->
 Long description
 
 <table>
 <tr>
 <td>
-
+<!--- preview, suggested -->
 ![IMG/gif preview](#)
 <p align="right">
 <sub>(Preview)</sub>
@@ -50,7 +52,7 @@ Long description
 </table>
 
 ### Features
-
+<!--- optional -->
 |                            |  theProject        | ◾ Other           |
 | -------------------------- | :----------------: | :---------------: |
 | Feature 1                  |         ✔️         |        ❌        |
@@ -58,16 +60,17 @@ Long description
 
 
 ## Installation
+<!--- Mandatory -->
 Requirements:
 - [Req 1](#) version 1.0
 - [Req 2](#) (tested with 2.0)
 
-##### Downloading and installing steps (pre-build files):
+##### Downloading and installing steps (pre-build files): <!--- Mandatory -->
 * **[Download, fork](#)** the latest release.
 * **Open...** the following path: `\etc\theproject`
 * **Execute, Launch** in the _console_ the following command: `install.sh`
 
-##### Downloading, building from source and installing steps:
+##### Downloading, building from source and installing steps: <!--- Optional -->
 To build theProject, you need to have:
 - [Req 1](#) version 1.0
 - [Req 2](#) (tested with 2.0)
@@ -82,15 +85,13 @@ cd build && make
 ```
 
 ## Usage
-
+<!--- Mandatory -->
 * **Execute, Launch** in the _console_ the following command: `run theProject`
-
 
 ### Updating
 
-
 ## Contributing
-
+<!--- Mandatory -->
 
 #### Bug Reports & Feature Requests
 
@@ -100,21 +101,18 @@ Please use the [issue tracker](#) to report any bugs or file feature requests.
 
 Got **something interesting** you'd like to **contribute**? Read more in [contributing](#).
 
-
-
-
-
 ## Support
-
+<!--- Mandatory -->
 ### Wiki
-
+<!--- Optional -->
 Do you **need some help**? Check the _articles_ from the [wiki](#).
 
 ### FAQ
-
+<!--- Optional -->
 ### Troubleshooting
-
+<!--- Optional -->
 ### Need more support?
+<!--- Mandatory -->
 Reach out to us at one of the following places:
 
 - Website at [osuc](https://osuc.dev)
@@ -122,10 +120,10 @@ Reach out to us at one of the following places:
 - E-Mail: **contacto@osuc.dev**
 
 ## Credits
-
+<!--- Optional -->
 ### Maintainers
-
+<!--- Optional -->
 
 ## License
-
+<!--- Mandatory -->
 [![License: This licence](#)](#)
