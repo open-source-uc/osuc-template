@@ -1,7 +1,7 @@
 ---
 name: Reporte de Bug
 about: Ayúdanos a mejorar.
-title: ''
+title: '[BUG]: '
 labels: bug
 assignees: ''
 
@@ -28,7 +28,12 @@ Fetch finished loading: GET "<URL>".
 Una pequeña descripción  de lo que esperarías que pasara. Ej: La web no se demorara en cargar 2 minutos.
 
 **Screenshots**
-Si es posible, incluir imágenes del problema.
+<details>
+  <summary><b><samp> 📸 &nbsp;Screenshots</samp></b></summary>
+  <br/>
+  
+
+</details>
 
 **Escritorio (Información requerida):**
  - Sistema operativo [e.g. Windows, Ubuntu]:
@@ -42,3 +47,4 @@ Si es posible, incluir imágenes del problema.
  - Version [e.g. 22]
 
 **Contexto adicional**
+
