@@ -29,10 +29,10 @@ Luego agrega tu fork como un proyecto local:
 
 ```sh
 # Using HTTPS
-git clone https://github.com/stevemao/REPOSITORY-NAME
+git clone https://github.com/YOUR-USERNAME/REPOSITORY-NAME
 
 # Using SSH
-git clone git@github.com:stevemao/REPOSITORY-NAME
+git clone git@github.com:YOUR-USERNAME/REPOSITORY-NAME
 ```
 
 > [Which remote URL should be used ?](https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories)
@@ -48,12 +48,12 @@ Agregue git remote controls:
 ```sh
 # Using HTTPS
 git remote add fork https://github.com/YOUR-USERNAME/REPOSITORY-NAME
-git remote add upstream https://github.com/stevemao/REPOSITORY-NAME
+git remote add upstream https://github.com/YOUR-USERNAME/REPOSITORY-NAME
 
 
 # Using SSH
 git remote add fork git@github.com:YOUR-USERNAME/REPOSITORY-NAME
-git remote add upstream git@github.com/stevemao/REPOSITORY-NAME
+git remote add upstream git@github.com/YOUR-USERNAME/REPOSITORY-NAME
 ```
 
 Ahora puede verificar que tienes dos remote controls:
@@ -72,21 +72,14 @@ git pull upstream main # or master
 ### Elija una branch de base
 Antes de comenzar el desarrollo, debe saber en qué branch basar sus modificaciones/adiciones. En caso de duda, use main o master.
 
-| Type of change                |           | Branches              |
-| :------------------           |:---------:| ---------------------:|
-| Documentation                 |           | `main`              |
-| Bug fixes                     |           | `main`              |
-| New features                  |           | `main`              |
-| New issues models             |           | `YOUR-USERNAME:patch` |
-
 ```sh
-# Switch to the desired branch
-git switch main # or master
+# Cambiar a la branch deseada
+git switch main # master
 
-# Pull down any upstream changes
+# Hacer pull de los cambios
 git pull
 
-# Create a new branch to work on
+# Crear una nueva branch para trabajar
 git switch --create patch/1234-name-issue
 ```
 

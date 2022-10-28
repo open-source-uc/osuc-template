@@ -1,9 +1,0 @@
-on: [push, pull_request, workflow_dispatch]
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-    - name: and i oop
-      if: github.event.pusher.name == "fernandosmither"
-      run: exit 1
