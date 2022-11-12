@@ -18,3 +18,9 @@ Una pequeña y concisa descripción de cualquier solución que te imaginaras.
 
 **Contexto adicional**
 Añade aquí cualquier otro contexto o screenshot acerca del feature request si es necesario.
+
+<details>
+  <summary><b><samp> 📸 &nbsp;Screenshots</samp></b></summary>
+  <br/>
+
+</details>

@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href=#><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" width="200px" alt="banner"></a>
+  <a href=# name="readme-top"><img src="https://osuc.dev/img/min-icon.svg" width="200px" alt="banner"></a>
 </h1>
 
 <h4 align="center"> Descripción del proyecto en una linea </h4>
@@ -10,114 +10,58 @@
 </p>
       
 <p align="center">
-  <a href="#about">About</a> •
-  <a href="#installation">Installation</a> •  
-  <a href="#usage">Usage</a> •
-  <a href="#contributing">Contributing</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#support">Support</a> •
-  <a href="#license">License</a>
+  <a href="#Descripción">Descripción</a> •
+  <a href="#Uso">Uso</a> •
+  <a href="#Contribuir">Contribuir</a> •
+  <a href="#Creditos">Creditos</a> •
+  <a href="#Soporte">Soporte</a> •
+  <a href="#Licencía">Licencia</a>
 </p>
 
 ---
 
-## About
+## Descripción
 
-Descripción larga
+Descipción mas detallada del proyecto.
+<p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
-<table>
-<tr>
-<td>
+## Uso
 
-![Imagen/gif de preview](#)
-<p align="right">
-<sub>(Preview)</sub>
-</p>
-
-</td>
-</tr>
-</table>
-
-### Features
-
-|                            |  theProject        | ◾ Other           |
-| -------------------------- | :----------------: | :---------------: |
-| Feature 1                  |         ✔️         |        ❌        |
-| Feature 2                  |         ✔️         |        ❌        |
-
-
-## Installation
-Requirements:
-- [Req 1](#) version 1.0
-- [Req 2](#) (tested with 2.0)
-
-##### Downloading and installing steps (pre-build files):
-* **[Download, fork](#)** the latest release.
-* **Open...** the following path: `\etc\theproject`
-* **Execute, Launch** in the _console_ the following command: `install.sh`
-
-##### Downloading, building from source and installing steps:
-To build theProject, you need to have:
-- [Req 1](#) version 1.0
-- [Req 2](#) (tested with 2.0)
-
-Steps: 
-* **[Download, fork](#)** the latest version from `main` branch.
-* **Open...** the following path: `\etc\theproject`
-* **Execute, Launch** in the _console_ the following commands:
+Para utilizar en el proyecto tienen que ejecutar el archivo 'main':
+```shell
+# comandos necesarios
 ```
-mkdir build
-cd build && make
-```
+<p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
-## Usage
-
-* **Execute, Launch** in the _console_ the following command: `run theProject`
-
-
-### Updating
-
-
-## Contributing
+## Contribuir
 
 
 #### Bug Reports & Feature Requests
 
-Please use the [issue tracker](#) to report any bugs or file feature requests.
+Utilice las **issues** para informar cualquier bug o solicitud.
 
 #### Workflow
 
-> tl;dr:
 > El workflow es PR a development -> Revisar preview y checks -> Asignar reviewers -> Aprobación -> Merge a development
 
-Detailed information on how to contribute can be found on [contributing.md](contributing.md) (in spanish).
+La información detallada sobre cómo contribuir se puede encontrar en [contributing.md](contributing.md).
 
 
+### Necesitas contactarnos
+Comuníquese con nosotros a travez de [OSUC.dev](https://links.osuc.dev/)
+
+<p align="right">(<a href="#readme-top">volver arriba</a>)</p>
+
+## Creditos
+
+### Mantenedores
+
+- [USERNAME](https://www.github.com/USERNAME)
 
 
+<p align="right">(<a href="#readme-top">volver arriba</a>)</p>
+## Licencía
 
-## Support
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./license.md)
 
-### Wiki
-
-Do you **need some help**? Check the _articles_ from the [wiki](#).
-
-### FAQ
-
-### Troubleshooting
-
-### Need more support?
-Reach out to us at one of the following places:
-
-- Website at [osuc](https://osuc.dev)
-- Discord [OSUC](#)
-- E-Mail: **contacto@osuc.dev**
-
-## Credits
-
-### Maintainers
-
-
-## License
-
-[![License: This licence](#)](#)
+<p align="right">(<a href="#readme-top">volver arriba</a>)</p>

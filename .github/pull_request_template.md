@@ -1,10 +1,10 @@
 # Problema
 
->> Descripción del problema a resolver.
+Descripción del problema a resolver.
 
 ## Solución
 
->> Lista con soluciones implementadas.
+Lista con soluciones implementadas.
 
 - feature 1
 - feature 2
@@ -16,6 +16,4 @@
 
 ## Resuelve
 
->> Palabras claves para resolver issues automáticamente como `resolves #<issue-number>` 
-
-> Esta pull request resolves #1
+Esta pull request resuelve la issue #1

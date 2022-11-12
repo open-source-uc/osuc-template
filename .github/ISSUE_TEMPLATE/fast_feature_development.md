@@ -1,7 +1,7 @@
 ---
 name: Fast feature development
 about: Solo para uso en desarrollo
-title: 'feat(<nombre>): agregar <descripción corta> '
+title: '[FEAT]: <descripcion>'
 labels: enhancement, help wanted
 assignees: ''
 
@@ -20,3 +20,10 @@ Descripción breve del problema.
 ## Comentarios
 
 Agregar comentarios adicionales.
+
+<details>
+  <summary><b><samp> 📸 &nbsp;Screenshots</samp></b></summary>
+  <br/>
+  
+
+</details>
